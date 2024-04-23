@@ -1,0 +1,10 @@
+{
+  "name": "anshinv1",
+  "version": "1.0.0",
+  "description": "Backend server and Discord bot",
+  "main": "index.js",
+  "repository": "https://github.com/silver-nick/anshinv1",
+  "author": "silver-nick <78521344+silver-nick@users.noreply.github.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false
+}
